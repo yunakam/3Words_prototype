@@ -1,0 +1,9 @@
+NECESSARY
+- cards already placed in a plate cannot be chosen
+
+KIND OF NECESSARY
+- replace some vowels with a consonant
+
+NOT NECESSARILY
+- make alphabet icon transparent and set random bgcolor
+- set timer for each turn
